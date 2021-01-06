@@ -1,0 +1,14 @@
+
+
+
+
+
+
+logger starts here
+  file is logfile.txt"
+  verbosity  0
+get instance is being called right here, logger is not null
+
+Stuff should be happening at END of log
+get instance is being called right here, logger is not null
+
